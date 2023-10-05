@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 0d28daa2beb3be44d82e5dc22de92361
+  - enabled: 1
+    path: Assets/Scenes/Register.unity
+    guid: ae05c4ec169a892438f1f8005ecf5c84
+  - enabled: 0
+    path: Assets/Scenes/Jogar-2.unity
+    guid: 7a22d1dc85312ba4380d8cec8e33fc96
+  - enabled: 1
+    path: Assets/Scenes/Jogar.unity
+    guid: 5c1db9170ac1bde40916eacce851fceb
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2196f389c1781804f80b95bc67199962
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: 31a7303c79bbcda4c8f73d0c3330de54
+  - enabled: 1
+    path: Assets/Scenes/5x5-Tradicional-terra.unity
+    guid: 5ecafc4a724d8e14488115fa46bb1895
+  - enabled: 1
+    path: Assets/Scenes/5x5-Tradicional-sistema-solar.unity
+    guid: d236770a6bab1684ebae8faf48612aaa
+  - enabled: 1
+    path: Assets/Scenes/3x3-Tradicional-barco.unity
+    guid: d212a1ec33c64184e8f971a5f5593b4a
+  - enabled: 1
+    path: Assets/Scenes/3x3-Tradicional-carro.unity
+    guid: a7809b8780d4a744483f5ab5a79c2ab0
+  - enabled: 1
+    path: Assets/Scenes/5x5-Tradicional-animais.unity
+    guid: 222f2e556cad30b4ca5592bcb1d2b2f0
+  - enabled: 1
+    path: Assets/Scenes/MenuT.unity
+    guid: f06c820eba33d434da04a6a7bb590edd
+  - enabled: 1
+    path: Assets/Scenes/imgTEscolha.unity
+    guid: 50aa54f681fef0d49a0879f57ee5148e
+  - enabled: 1
+    path: Assets/Scenes/4x4-Tradicional-casa.unity
+    guid: 458ced78687763e468948bc6bba3b28a
+  - enabled: 1
+    path: Assets/Scenes/5x5-Tradicional-barco.unity
+    guid: e6312f7282dffcf4c90b3f5dde496f5c
+  - enabled: 1
+    path: Assets/Scenes/2x2-Traditional.unity
+    guid: 425d6260d4833b54cb654ea5546c6b30
+  - enabled: 1
+    path: Assets/Scenes/2x2-Traditional-barco.unity
+    guid: 9d73e9d283593134fb587e7b4f6a495c
+  - enabled: 1
+    path: Assets/Scenes/5x5-Tradicional-carro.unity
+    guid: 067640c0fb0cfae449dc5da4a1163ff7
+  - enabled: 1
+    path: Assets/Scenes/4x4-Tradicional-carro.unity
+    guid: 355ec1e18663a0f4186472ae34f3fe3b
+  - enabled: 1
+    path: Assets/Scenes/4x4-Tradicional.unity
+    guid: ab777564eb6ac3b458059a70080a9980
+  - enabled: 1
+    path: Assets/Scenes/4x4-Tradicional-arcuires.unity
+    guid: 2819b8f954ec0d2498de4bb328f12ba8
+  - enabled: 1
+    path: Assets/Scenes/4x4-Tradicional-barco.unity
+    guid: 35b2e6653242bcd4b86f2a62cf45e3be
+  - enabled: 1
+    path: Assets/Scenes/4x4-Tradicional-urso.unity
+    guid: f85e8d512c577c84cabafbde7a3f9b4d
+  - enabled: 1
+    path: Assets/Scenes/2x2-Traditional-casa.unity
+    guid: 76c7de3d08ada0f4db22be666569ea97
+  - enabled: 1
+    path: Assets/Scenes/3x3-Tradicional-arcuires.unity
+    guid: 0cf86495fd2eb454b99af33b52b08c4a
+  - enabled: 1
+    path: Assets/Scenes/3x3-Tradicional-casa.unity
+    guid: 73d110de580341744b7bb535a96c8291
+  - enabled: 1
+    path: Assets/Scenes/5x5-Tradicional.unity
+    guid: 285167e2c1fff444187241758e2e79fd
+  - enabled: 1
+    path: Assets/Scenes/5x5-Tradicional-urso.unity
+    guid: 0066ffac2316a68469f5a41dd61ce92d
+  - enabled: 1
+    path: Assets/Scenes/5x5-Tradicional-arcuires.unity
+    guid: d67f328f99d0a3d4ebde7ec4f0e743b7
+  - enabled: 1
+    path: Assets/Scenes/3x3-Tradicional.unity
+    guid: 6156a30016498ed47a0d05a7922aa506
+  - enabled: 1
+    path: Assets/Scenes/2x2-Traditional-carro.unity
+    guid: 3eb6ba8849765484e8a88d2631a89e13
+  - enabled: 1
+    path: Assets/Scenes/escolha.unity
+    guid: bb8c58f196739854f8cce7cef7a61a9e
+  - enabled: 1
+    path: Assets/Scenes/2x2-Traditional-urso.unity
+    guid: d1eae658fe6248c4981860e728641a9e
+  - enabled: 0
+    path: Assets/NativeToolkit/Example/ExampleScene.unity
+    guid: 4e3f085da59286144aebdd3b30cc6620
+  - enabled: 0
+    path: Assets/AndroidGallery/Demo/Demo.unity
+    guid: b2f58c28e4fe6dd4db99104f82848284
+  - enabled: 1
+    path: Assets/Scenes/2x2-Traditional-arcuires.unity
+    guid: b7309cf8b5972e4498aa5a1a1ede0ead
+  - enabled: 1
+    path: Assets/Scenes/3x3-Tradicional-animais.unity
+    guid: 962eac6147e606748b9666d8efba7eb8
+  - enabled: 1
+    path: Assets/Scenes/3x3-Tradicional-sistema-solar.unity
+    guid: 9cf98d90b5a6a464db77bd45f7be0cc3
+  - enabled: 1
+    path: Assets/Scenes/2x2-Traditional-mar.unity
+    guid: 418af0eac6a873941a6f3cc78e17aed6
+  - enabled: 1
+    path: Assets/Scenes/3x3-Tradicional-urso.unity
+    guid: 9d6cde7229a878c4bbe90ac4ee4d568d
+  - enabled: 1
+    path: Assets/Scenes/2x2-Traditional-sistema-solar.unity
+    guid: 121a57552be8fc24a9a675aa9cc9c58d
+  - enabled: 1
+    path: Assets/Scenes/2x2-Traditional-terra.unity
+    guid: aa4f0f0badaf304459e47b0ba852557f
+  - enabled: 1
+    path: Assets/Scenes/4x4-Tradicional-mar.unity
+    guid: c4a0df42012efb44090f59fc1d4091ae
+  - enabled: 1
+    path: Assets/Scenes/5x5-Tradicional-casa.unity
+    guid: 01dfca0646c9bf640b0aa05a07b20a64
+  - enabled: 1
+    path: Assets/Scenes/4x4-Tradicional-animais.unity
+    guid: 36da9be31e984424fa171d9028a6782e
+  - enabled: 1
+    path: Assets/Scenes/4x4-Tradicional-terra.unity
+    guid: f1fe2b1d247ae174c92a64cd7b8e3108
+  - enabled: 1
+    path: Assets/Scenes/3x3-Tradicional-mar.unity
+    guid: 25163905d6088a149b02a51a12f83064
+  - enabled: 1
+    path: Assets/Scenes/DemoScene.unity
+    guid: c9c3a8b1d560a0146b500a8fc3b06487
+  m_configObjects: {}
